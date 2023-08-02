@@ -1,0 +1,14 @@
+{
+  "name": "mongooose-odm",
+  "version": "1.0.0",
+  "description": "First CRUD transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GEr",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.4.1"
+  }
+}
